@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: #f2f2f2;
+    font-size: 20px;
+}
+
+.mb-4 {
+    margin-bottom: 20px;
+}
+
+select {
+    padding: 10px 20px;
+}
